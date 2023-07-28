@@ -1,0 +1,31 @@
+#+TITLE: My Sources to learn and practice hacking ad exploit development
+#+date: <2023-07-27 Thu>
+
+* Sources
+** Video
++ Udemy Course I still have
+** Followalong
+*** Wargames
++ Pwnable
+  - [[http:pwnable.kr][Pwnable.kr]]
+    Bonus [[https:research.checkpoint.com/wp-content/uploads/2020/03/pwnable_writeup.pdf][document]]
+  - [[http:pwnable.tw][Pwnable.tw]]
+  - [[http:pwn.eonew.cn][Chinesie]]
++ [[https:root-me.org/?lang=en][Spanishy]]
++ [[http:smashthestack.org][Smash the Stack]]
++ [[https:exploit.education][VMs area]] - Learn about vulnerability analysis, exploit development, software debugging, binary analysis, and general cyber security issues.
++ [[https:crackmes.one][Crack Mes]] - Place where you can download crackmes to improve your reverse engineering skills
++ [[https:overthewire.org/wargames/][Wargames]]
+
+*** Pwn Related Stuffs:-
+- [[https:github.com/Naetw/CTF-pwn-tips][PwnTips]] - Like a Cheatsheet
+- [[https:trailofbits.github.io/ctf/exploits/binary1.html][Tail Of Bits]] - Basic Bich
+ 
+** Sites
++ [[https:tryhackme.com][Try Hack Me]]
++ [[https:hackthebox.com][Hack The Box]]
+
+* In Pactice
+** Hack The Box
+** Try Hack me
+** Pwnable

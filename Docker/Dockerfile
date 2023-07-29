@@ -10,7 +10,7 @@ RUN apt -y update && apt -y upgrade && apt -y autoremove && apt clean
 RUN apt install curl dirb dirbuster dnsenum dnsrecon dnsutils dos2unix enum4linux exploitdb ftp git gobuster hashcat hping3 hydra impacket-scripts john joomscan masscan metasploit-framework mimikatz nasm ncat netcat-traditional nikto nmap patator php powersploit proxychains pip python2 python3 recon-ng responder samba samdump2 smbclient smbmap snmp socat sqlmap sslscan theharvester emacs nano wafw00f weevely wfuzz whois wordlists wpscan -y --no-install-recommends
 
 # DE and vncserver
-RUN DEBIAN_FRONTEND=noninteractive apt install -y xfce4 xfce4-goodies x11vnc xvfb 
+RUN DEBIAN_FRONTEND=noninteractive apt install -y xfce4 xfce4-goodies x11vnc xvfb dbus-x11
 RUN mkdir ~/.vnc
 RUN x11vnc -storepasswd kallie ~/.vnc/passwd
 COPY entrypoint.sh /entrypoint.sh

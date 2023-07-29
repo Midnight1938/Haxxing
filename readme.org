@@ -25,12 +25,14 @@
 + [[https:tryhackme.com][Try Hack Me]]
 + [[https:hackthebox.com][Hack The Box]]
 
-** TODO Podman Images
+* TODO Podman Images
 + [X] Setup kali image for VNC
   - [ ] Reduce image size with ✨ magic ✨
-+ [ ] Ensure it is functional
-+ [ ] Link to container folder
-+ [ ] Test with VNC
++ [X] Ensure it is functional
++ [X] Link to container folder
++ [X] Test with VNC
++ [X] Make the GUI feel at home
+  - [X] Try to setup consistent container
 + [ ] Push image to quay.io
 + [-] Setup podman volume
   - [-] Save volume

@@ -13,8 +13,10 @@ RUN apt install curl dirb dirbuster dnsenum dnsrecon dnsutils dos2unix enum4linu
 RUN DEBIAN_FRONTEND=noninteractive apt install -y xfce4 xfce4-goodies x11vnc xvfb dbus-x11
 RUN mkdir ~/.vnc
 RUN x11vnc -storepasswd kallie ~/.vnc/passwd
+#?  ENTRYPOINT ["x11vnc -forever -usepw -create"] 
+#? CMD ["/bin/bash"]
 COPY entrypoint.sh /entrypoint.sh
-ENTRYPOINT ["/entrypoint.sh"]
+ENTRYPOINT ["/entrypoint.sh"] 
 
 # Aliases for regular commands in kali
 RUN echo "alias l='ls -al'" >> /root/.bashrc

@@ -33,7 +33,7 @@
 + [X] Test with VNC
 + [X] Make the GUI feel at home
   - [X] Try to setup consistent container
-+ [ ] Push image to quay.io
++ [X] Push image to quay.io
 + [-] Setup podman volume
   - [-] Save volume
 

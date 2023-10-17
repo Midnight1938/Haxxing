@@ -24,6 +24,17 @@
 ** Sites
 + [[https:tryhackme.com][Try Hack Me]]
 + [[https:hackthebox.com][Hack The Box]]
+** [[https:becomingahacker.org/][Omar]]
++ [[https:h4cker.org/][H4cker Website]]
+  - [[https:github.com/The-Art-of-Hacking/h4cker][H4cker Github]]
+    * [[https:github.com/The-Art-of-Hacking/h4cker/tree/master/build_your_own_lab][Building your own lab]]
+    * [[https:github.com/mitre/caldera][Caldera]]
+  - [[https:becomingahacker.org/security-onion-redhunt-os-proxmox-and-open-vswitch-6d6fbaaf0a51][Setup proxmox]] (will add more to gayhub later)
++ [[https:hackingscenarios.com/][Hacking Senarios]]
++ [[https:openstack.org/][Openstack]]
+  - [[https:vulnhub.com][Vulnhub]]
+  - [[https:proxmox.com/en/][Proxmox Server]]
+  - 
 
 * TODO Podman Images
 + [X] Setup kali image for VNC

@@ -1,0 +1,10 @@
+#+title: Resources from the Course
+
+* Websites
+- [[https://h4cker.org/ethical-hacking/][Ethical hacking]] Lessons by Omar Santos
+- [[https://hackingscenarios.com/][Hacking Senarios]] to learn how to hack with practical knowledge
+- [[https://pauljerimy.com/security-certification-roadmap][Certification Roadmap]]
+- [[https://becomingahacker.org/][Medium Articles]] by Omar Santos
+- [[https://whiterabbitneo.com][WhiteRabbitNeo]]
+* Github
+- [[https://github.com/The-Art-of-Hacking/h4cker][Art Of Hacking]] A comprehensive collection of cybersecurity-related references, scripts, tools, code, and other resources

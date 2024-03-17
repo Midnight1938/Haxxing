@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "700370079680",
+    "firebase_url": "https://bbs-first-proj-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "bbs-first-proj",
+    "storage_bucket": "bbs-first-proj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700370079680:android:a305b476f5e67ae3070225",
+        "android_client_info": {
+          "package_name": "com.insta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIGQLou9__EnhMZ0jydjoUtgKPGLNtj5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

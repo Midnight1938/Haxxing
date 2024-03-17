@@ -1,0 +1,6 @@
+
+(DesktopEditors:5743): Gtk-WARNING **: 23:38:55.617: gtk_disable_setlocale() must be called before gtk_init()
+QXcbConnection: XCB error: 8 (BadMatch), sequence: 776, resource id: 4194367, major code: 130 (Unknown), minor code: 3
+QXcbConnection: XCB error: 8 (BadMatch), sequence: 791, resource id: 4194367, major code: 130 (Unknown), minor code: 3
+QXcbConnection: XCB error: 8 (BadMatch), sequence: 873, resource id: 4194379, major code: 130 (Unknown), minor code: 3
+QXcbConnection: XCB error: 8 (BadMatch), sequence: 903, resource id: 4194379, major code: 130 (Unknown), minor code: 3
